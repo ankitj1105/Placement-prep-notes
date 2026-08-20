@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "375e53699c3de03e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a16e12a82ea5a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f7bf17f2fd0bcfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA and OOP/01-JAVA Fundamentals/01 - Java Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Java Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fab1dd0958b4ece",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8bfd2614218a292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "163a4cd200d39b4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7e2a2c618579f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c4a63853b8abd07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4dcf1fd70c053cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d076d6f9dd2f836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738ac3ad8ec76854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JAVA and OOP/Java And OOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fb7565acbc8d74f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JAVA and OOP/Java And OOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a8b22f75f6d41c70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "edecbe7146f086ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "eb75b4b492ea6f26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JAVA and OOP/Java And OOP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0f7bf17f2fd0bcfe",
+  "lastOpenFiles": [
+    "JAVA and OOP/00-RoadMap/Java + OOP Placement Roadmap.md",
+    "JAVA and OOP/01-JAVA Fundamentals/01 - Java Architecture.md",
+    "JAVA and OOP/08-Revision",
+    "JAVA and OOP/Untitled.md",
+    "JAVA and OOP/07-Interview Questions",
+    "JAVA and OOP/06-Coding practice",
+    "JAVA and OOP/05-Real java & placement",
+    "JAVA and OOP/04-Java Interview depth",
+    "JAVA and OOP/03-Advanced OOP",
+    "JAVA and OOP/02-OOP Core",
+    "JAVA and OOP/01-JAVA Fundamentals",
+    "Untitled",
+    "JAVA and OOP/Java And OOP.md",
+    "JAVA and OOP/00-RoadMap",
+    "DSA/DSA Theory.md",
+    "DSA/DSA Problem Solving.md",
+    "Welcome.md"
+  ]
+}
