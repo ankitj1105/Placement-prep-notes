@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA and OOP/01-JAVA Fundamentals/01 - Java Architecture.md",
+                "file": "DSA/01 -Problem Solving Foundations/Optimization Thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Java Architecture"
+              "title": "Optimization Thinking"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 460.70001220703125
   },
   "right": {
     "id": "4dcf1fd70c053cc7",
@@ -190,22 +190,40 @@
   },
   "active": "0f7bf17f2fd0bcfe",
   "lastOpenFiles": [
-    "JAVA and OOP/00-RoadMap/Java + OOP Placement Roadmap.md",
+    "DSA/01 -Problem Solving Foundations/18 - Interview Solution Explanation.md",
+    "DSA/01 -Problem Solving Foundations/17 - Unseen Problem Approach.md",
+    "DSA/01 -Problem Solving Foundations/16 - Debugging Technique.md",
+    "DSA/01 -Problem Solving Foundations/15 - Edge Case Thinking.md",
+    "DSA/01 -Problem Solving Foundations/14 - Dry Run Technique.md",
+    "DSA/01 -Problem Solving Foundations/12 - Brute Force Thinking.md",
+    "DSA/01 -Problem Solving Foundations/09 - Amortized Complexity.md",
+    "DSA/01 -Problem Solving Foundations/08 - Best Average Worst Case.md",
+    "DSA/01 -Problem Solving Foundations/07 - Big Omega.md",
+    "DSA/01 -Problem Solving Foundations/06 - Big Theta.md",
+    "DSA/01 -Problem Solving Foundations/05 - Big O.md",
+    "DSA/01 -Problem Solving Foundations/02 - What is a Data Structure.md",
+    "DSA/01 -Problem Solving Foundations/01 - What is an Algorithm.md",
+    "DSA/01 -Problem Solving Foundations/04 - Space Complexity.md",
+    "DSA/01 -Problem Solving Foundations/03 - Time Complexity.md",
+    "DSA/01 -Problem Solving Foundations/Optimization Thinking.md",
+    "Untitled.base",
+    "DSA/00 Roadmap/Roadmap.md",
+    "DSA/11 - Constraints to Algorithm.md",
+    "DSA/10 - Input Constraints.md",
+    "DSA/19-Leetcode Problem practice/Problems leet code.md",
+    "Resume interview",
+    "DSA/21-Revision",
+    "DSA/20-Interview Questions",
+    "DSA/19-Leetcode Problem practice",
+    "DSA/18- problem patterns",
+    "DSA/17-dynamic programming",
+    "DSA/14-Graphs",
+    "DSA/15-Heap & priority queue",
+    "DSA/16-Trees",
     "JAVA and OOP/01-JAVA Fundamentals/01 - Java Architecture.md",
-    "JAVA and OOP/08-Revision",
-    "JAVA and OOP/Untitled.md",
-    "JAVA and OOP/07-Interview Questions",
-    "JAVA and OOP/06-Coding practice",
-    "JAVA and OOP/05-Real java & placement",
-    "JAVA and OOP/04-Java Interview depth",
-    "JAVA and OOP/03-Advanced OOP",
-    "JAVA and OOP/02-OOP Core",
-    "JAVA and OOP/01-JAVA Fundamentals",
-    "Untitled",
-    "JAVA and OOP/Java And OOP.md",
-    "JAVA and OOP/00-RoadMap",
     "DSA/DSA Theory.md",
     "DSA/DSA Problem Solving.md",
-    "Welcome.md"
+    "JAVA and OOP/00-RoadMap/Java + OOP Placement Roadmap.md",
+    "JAVA and OOP/Untitled.md"
   ]
 }
