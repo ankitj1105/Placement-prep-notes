@@ -1,5 +1,3 @@
-Complete .NET Backend Developer Roadmap Your primary interview preparation syllabus
-
 # 1. C# and .NET Fundamentals Programming fundamentals
 
 ```
